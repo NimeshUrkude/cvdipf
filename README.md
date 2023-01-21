@@ -3,4 +3,4 @@ This Repository is of Webiste of Showcase Cat vs Dog Image Prediction model, Bui
 
 Model Github : https://github.com/NimeshUrkude/Cat_vs_Dog_Image_Prediction_Model
 
-Frontend Link : https://nimeshurkude.github.io/Cat_vs_Dog_Image_Prediction_Frontend/# Cat_vs_Dog_Image_Prediction_Frontend
+Frontend Link : https://nimeshurkude.github.io/cvdipf/
