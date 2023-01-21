@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cvdipf/static/css/main.d4192717.css",
+    "main.js": "/cvdipf/static/js/main.697af9f0.js",
+    "index.html": "/cvdipf/index.html",
+    "main.d4192717.css.map": "/cvdipf/static/css/main.d4192717.css.map",
+    "main.697af9f0.js.map": "/cvdipf/static/js/main.697af9f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4192717.css",
+    "static/js/main.697af9f0.js"
+  ]
+}
