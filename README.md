@@ -1,5 +1,6 @@
 # Cat vs Dog Image Prediction Frontend
-This Repository is of Webiste of Showcase Cat vs Dog Image Prediction model, Build on TensorflowJS and React..
+
+This repository is of a website showcasing a cat vs dog image prediction model built on TensorflowJS and React. It is hosted on Github and provides the users with an interactive interface to upload images of cats and dogs and get the prediction from the model in real-time.The repository also contains the source code for the website
 
 Model Github : https://github.com/NimeshUrkude/Cat_vs_Dog_Image_Prediction_Model
 
